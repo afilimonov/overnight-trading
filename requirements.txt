@@ -1,0 +1,5 @@
+numpy
+pandas
+market-prices
+matplotlib
+yfinance
